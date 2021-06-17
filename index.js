@@ -10,7 +10,7 @@ let myArray= []
             
             for (let n = 0; n < noun.length; n++) {
                  
-                myArray.push(pronoun[i] + adj[j] + noun[n] + ".com"+"<br>");            
+                myArray.push(pronoun[i] + adj[j] + noun[n] + ".com <br>");            
             }
         }
         
